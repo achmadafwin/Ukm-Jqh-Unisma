@@ -91,7 +91,6 @@
   font-weight: 200;
   text-transform: uppercase;
   margin-top: 30px;
-  margin-left: 30px;
 }
 
 .workingspace h3 span {
@@ -103,11 +102,9 @@
   font-size: 18px;
   font-weight: 200;
   color: #8b8b8b;
-  margin-left: 30px;
 }
 
 .workingspace .tombol {
-  margin-left: 30px;
   margin-top: 20px;
 }
 
